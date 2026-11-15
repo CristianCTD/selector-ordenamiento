@@ -1,13 +1,3 @@
-/**
- * Representa el analisis de propiedades y metricas estructurales de un arreglo.
- * Evalua tamano, rango numerico, porcentaje de orden y disposicion de los datos.
- * 
- * Asignatura: Estructuras de Datos - Unidad 3
- * Taller Practico: Algoritmos de Ordenamiento
- * Tutor: John Carlos Arrieta Arrieta
- * Estudiante: Cristian Torres
- * Ejercicio: N. 30 - Selector Inteligente de Algoritmo
- */
 public class PerfilArreglo {
     private final int tamano;
     private final int min;

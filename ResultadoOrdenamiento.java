@@ -1,16 +1,5 @@
 import java.util.Arrays;
 
-/**
- * Encapsula el resultado de la ejecucion del algoritmo de ordenamiento seleccionado:
- * Nombre del algoritmo, justificacion de la regla, metricas de operacion (comparaciones,
- * intercambios/movimientos), tiempo y verificacion de orden ascendente.
- * 
- * Asignatura: Estructuras de Datos - Unidad 3
- * Taller Practico: Algoritmos de Ordenamiento
- * Tutor: John Carlos Arrieta Arrieta
- * Estudiante: Cristian Torres
- * Ejercicio: N. 30 - Selector Inteligente de Algoritmo
- */
 public class ResultadoOrdenamiento {
     private final String algoritmo;
     private final String justificacionRegla;

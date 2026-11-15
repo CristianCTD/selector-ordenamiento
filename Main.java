@@ -1,15 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * Menu interactivo y laboratorio demostrativo del Selector Inteligente de Algoritmo.
- * 
- * Asignatura: Estructuras de Datos - Unidad 3
- * Taller Practico: Algoritmos de Ordenamiento
- * Tutor: John Carlos Arrieta Arrieta
- * Estudiante: Cristian Torres
- * Ejercicio: N. 30 - Selector Inteligente de Algoritmo
- */
 public class Main {
 
     private final Scanner scanner;
@@ -78,7 +69,6 @@ public class Main {
         System.out.println("=======================================================================");
     }
 
-    // 1. Casi ordenado
     private void probarCasoCasiOrdenado() {
         System.out.println("--- CASO 1: ARREGLO CASI ORDENADO ---");
         int[] datos = {1, 2, 3, 5, 4, 6, 7, 9, 8, 10, 11, 13, 12, 14, 15, 16};
@@ -91,7 +81,6 @@ public class Main {
         System.out.println(res);
     }
 
-    // 2. Rango pequeno
     private void probarCasoRangoPequeno() {
         System.out.println("--- CASO 2: RANGO NUMERICO PEQUENO (EDADES / NOTAS) ---");
         int[] datos = {4, 1, 3, 2, 5, 2, 1, 4, 3, 0, 5, 2, 1, 4, 2, 3, 5, 1, 0, 4};
@@ -104,7 +93,6 @@ public class Main {
         System.out.println(res);
     }
 
-    // 3. Invertido
     private void probarCasoInvertido() {
         System.out.println("--- CASO 3: ARREGLO ESTRICTAMENTE INVERTIDO ---");
         int[] datos = {90, 80, 70, 60, 50, 40, 30, 20, 10, 5, 1};
@@ -117,7 +105,6 @@ public class Main {
         System.out.println(res);
     }
 
-    // 4. Grande desordenado
     private void probarCasoGrandeDesordenado() {
         System.out.println("--- CASO 4: ARREGLO GRANDE Y DESORDENADO (n = 1.000) ---");
         int n = 1_000;
@@ -134,7 +121,6 @@ public class Main {
         System.out.println(res);
     }
 
-    // 5. Muy pequeno
     private void probarCasoPequeno() {
         System.out.println("--- CASO 5: ARREGLO MUY PEQUENO (n = 6) ---");
         int[] datos = {28, 4, 15, 89, 2, 33};
@@ -147,7 +133,6 @@ public class Main {
         System.out.println(res);
     }
 
-    // 6. Arreglo personalizado
     private void probarCasoPersonalizado() {
         System.out.println("--- CASO 6: INGRESO DE ARREGLO PERSONALIZADO ---");
         System.out.print("Ingrese los enteros separados por espacios o comas: ");
@@ -168,7 +153,6 @@ public class Main {
         System.out.println(res);
     }
 
-    // 7. Comparativa de los 5 algoritmos sobre los mismos datos
     private void comparativaTodosLosAlgoritmos() {
         System.out.println("--- CASO 7: COMPARATIVA DE LOS 5 ALGORITMOS SOBRE COPIAS IDENTICAS ---");
         int n = 500;
