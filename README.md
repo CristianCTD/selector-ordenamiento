@@ -3,7 +3,7 @@
 **Asignatura:** Estructuras de Datos  
 **Unidad:** Unidad 3 - Taller Práctico: Algoritmos de Ordenamiento  
 **Programa:** Ingeniería de Software  
-**IES:** Universidad de Cartagena (Centro Tutorial Cereté)  
+**IES:** Universidad de Cartagena  
 **Tutor:** John Carlos Arrieta Arrieta  
 **Estudiante:** Cristian Torres  
 **Ejercicio Asignado:** N.º 30 - Selector Inteligente de Algoritmo
