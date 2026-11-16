@@ -1,7 +1,7 @@
 # Selector Inteligente de Algoritmos de Ordenamiento
 
 **Asignatura:** Estructuras de Datos  
-**Unidad:** Unidad 3 - Taller Práctico: Algoritmos de Ordenamiento  
+**Unidad:** Unidad 2 - Taller Práctico: Algoritmos de Ordenamiento  
 **Programa:** Ingeniería de Software  
 **Universidad:** Universidad de Cartagena  
 **Tutor:** John Carlos Arrieta Arrieta  
