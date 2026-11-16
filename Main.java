@@ -40,7 +40,7 @@ public class Main {
                 case 0:
                     System.out.println("=======================================================================");
                     System.out.println(" Gracias por utilizar el Selector Inteligente de Algoritmos.");
-                    System.out.println(" Universidad de Cartagena - Ingenieria de Software - Unidad 3.");
+                    System.out.println(" Universidad de Cartagena - Ingenieria de Software.");
                     System.out.println("=======================================================================");
                     break;
                 default:
